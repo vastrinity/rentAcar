@@ -1,0 +1,40 @@
+table {
+    border: 1px solid black;
+    width:1000px;
+    height:500px;
+   
+    margin-left: auto; 
+    margin-right:auto;
+    margin-top:auto;
+   
+  }
+  
+  #ecat{
+      font-size:40px;
+      border-color:transparent;
+      align-text:left;
+      height:40px;
+      text-align:left;
+      
+  }
+  th{
+      border: 2px dotted grey;
+      width:50%;
+      
+  }
+  output{
+      display:block;
+      text-align:left;
+      padding-left:3%;
+      margin-bottom:2%;
+      font:bold;
+  }
+  label{
+      display:inline;
+      margin-top:1%;
+      margin-bottom:15%;
+      text-align:left;
+      padding-left:3%;
+      font-weight:normal;
+  }
+  

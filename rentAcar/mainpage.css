@@ -1,0 +1,36 @@
+body{
+	align:center;
+	margin-left: 30%;
+    margin-right: auto;
+}
+
+fieldset.carInfo{
+	align:center;
+	border-color:#F7F7F7 ;
+	
+	width:90%;
+	margin-top:5%;
+}
+fieldset.categories{
+	align:center;
+	border-color:#F7F7F7 ;
+	
+	width:90%;
+	margin-top:2%;
+}
+div{
+	margin-bottom:4%;
+	
+}
+
+form{
+	margin-bottom:1%;
+	width:60%
+}
+input.store{
+	display: inline;
+
+}
+button{
+    display: inline;
+}
